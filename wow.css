@@ -1,3 +1,9 @@
 body{
     background-color: aquamarine;
 }
+#centerbox{
+    margin-left:100px;
+}
+#centerbox2{
+    margin-right:100px;
+}
