@@ -2,8 +2,11 @@ body{
     background-color: aquamarine;
 }
 #centerbox{
-    margin-left:150px;
+    margin-left:100px;
 }
 #centerbox2{
-    margin-right:150px;
+    margin-right:100px;
+}
+#shareresult{
+    text-align: left;
 }
