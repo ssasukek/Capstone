@@ -9,4 +9,11 @@ body{
 }
 #shareresult{
     text-align: left;
+    margin-top:250px;
+}
+.phone{
+    text-align: center;
+}
+.ccolor{
+   background-color: azure;
 }
